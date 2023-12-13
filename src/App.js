@@ -21,6 +21,7 @@ function Article() {
         rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem
         ipsum dolor sit amet.
       </p>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Mexipedium_xerophyticum_Orchi_01.jpg"></img>
     </article>
   );
 }
